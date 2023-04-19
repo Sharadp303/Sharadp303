@@ -4,7 +4,6 @@ Software Engineer
 -----------------------
 
 🔭 I am currently working on backend projects.⭐Passionate about web development
-📝 I regularly write articles on https://hashnode.com/@Sharad303
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sharad.patels03@gmail.com](mailto:sharad.patels03@gmail.com)

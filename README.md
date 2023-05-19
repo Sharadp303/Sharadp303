@@ -1,6 +1,6 @@
 Hi 👋 My name is Sharad Patel
 ===============================
-Software Engineer
+Backend Developer
 -----------------------
 
 🔭 I am currently working on backend projects.⭐Passionate about web development

@@ -8,10 +8,7 @@ Web Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sharad.patels03@gmail.com](mailto:sharad.patels03@gmail.com)
 * 🤝  I'm looking to collaborate on innovative and  creative projects<br>
-* 🧠  I'm currently working on Backend<br>
-
-
-
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharad-patel03) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sharad003) 
 

@@ -3,7 +3,7 @@ Hi 👋 My name is Sharad Patel
 Web Developer
 -----------------------
 
-🔭 I am currently working on backend projects.⭐Passionate about web development
+🚀 Full Stack Developer passionate about creating seamless and innovative web solutions. Proficient in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗠𝘆𝗦𝗤𝗟, 𝗮𝗻𝗱 𝗦𝗲𝗾𝘂𝗲𝗹𝗶𝘇𝗲 𝗢𝗥𝗠 on the backend. Currently expanding expertise into 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 for dynamic and responsive frontend development. Collaborative team player with a constant appetite for learning and adapting to emerging technologies. Let's build the future together! 👨‍💻🌐 #FullStackDeveloper #JavaScript #ReactJS #NodeJS
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sharad.patels03@gmail.com](mailto:sharad.patels03@gmail.com)
